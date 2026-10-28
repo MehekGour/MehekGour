@@ -44,7 +44,7 @@ Explored a layoffs dataset to investigate trends across companies, industries, c
 
 **Key concepts:** Aggregate functions, CTEs, window functions, ranking, and rolling totals.
 
-🔗 [View Repository](YOUR_SQL_EDA_REPO_LINK)
+🔗 [View Repository](https://github.com/MehekGour/Layoffs-EDA-project-MySQL.git)
 
 ## 📚 Currently Learning
 
@@ -59,7 +59,7 @@ I aim to combine my engineering background with data analytics and technology to
 
 ## 🤝 Let's Connect!
 
-- 💼 LinkedIn: [Add Your LinkedIn Profile URL](YOUR_LINKEDIN_URL)
+- 💼 LinkedIn: (https://www.linkedin.com/in/mehek-gour-ba5508298utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - 🐙 GitHub: [Explore My Projects](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
