@@ -59,8 +59,8 @@ I aim to combine my engineering background with data analytics and technology to
 
 ## 🤝 Let's Connect!
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/mehek-gour-ba5508298utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-- 🐙 GitHub: [Explore My Projects](https://github.com/YOUR_GITHUB_USERNAME)
+- 💼 LinkedIn: (https://www.linkedin.com/in/mehek-gour-ba5508298)
+- 🐙 GitHub: (https://github.com/MehekGour)
 
 ---
 
