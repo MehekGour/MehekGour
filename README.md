@@ -37,7 +37,7 @@ Cleaned and standardized a layoffs dataset using SQL.
 
 **Key concepts:** Duplicate removal, handling missing values, data standardization, and date formatting.
 
-🔗 [View Repository](YOUR_SQL_DATA_CLEANING_REPO_LINK)
+🔗 [View Repository](https://github.com/MehekGour/SQL-Data-cleaning-project.git)
 
 ### 2. SQL Exploratory Data Analysis — Layoffs
 Explored a layoffs dataset to investigate trends across companies, industries, countries, and years.
