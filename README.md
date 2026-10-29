@@ -1,6 +1,6 @@
 # Hi, I'm Mehek Gour! 👋
 
-🎓 Mechanical Engineering Student | Aspiring Data Analyst | Lifelong Learner
+🎓 Mechanical Engineering Student | Aspiring Data Analyst 
 
 Welcome to my GitHub profile! I'm a Mechanical Engineering student exploring the world of data analytics, SQL, Python, and technology. I enjoy learning new skills, solving problems, and turning raw data into meaningful insights.
 
